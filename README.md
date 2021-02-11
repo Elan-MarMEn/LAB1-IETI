@@ -7,7 +7,7 @@ This project is a beginner work to have a basics knowledge of React especific hi
 Open your comand console or cmd and write or copy the comand below.
 
 ```
-git clone https://github.com/Elan-MarMEn/
+git clone https://github.com/Elan-MarMEn/LAB1-IETI.git
 ```
 
 ## Getting Started with Create React App
