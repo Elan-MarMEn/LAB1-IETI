@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# LAB1-IETI
+
+This project is a beginner work to have a basics knowledge of React especific his structure and components.
+
+## Getting Started
+
+Open your comand console or cmd and write or copy the comand below.
+
+```
+git clone https://github.com/Elan-MarMEn/
+```
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +80,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Built With
+
+* [React](https://reactjs.org/) - Front-end framework
+
+
+## Authors
+
+* **Alan Marin** - *Initial work* - [Elan-MarMEn](https://github.com/Elan-MarMEn)
+
+
+## License
+
+This project is licensed under the General Public License (GNU) - see the [LICENSE.md](LICENSE.md) file for details
